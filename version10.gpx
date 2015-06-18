@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<gpx
+  version="1.0"
+  creator="VB Net GPS:  vermeiren-willy@pandora.be"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://www.topografix.com/GPX/1/0"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<bounds minlat="51.18938" minlon="3.611541" maxlat="51.199121" maxlon="3.631711"/>
+
+<wpt lat="51.194444" lon="3.631711">
+   <name>START</name>
+</wpt>
+
+<rte>
+  <name>Lembeke Aveschootwandeling   5 km RT</name>
+    <rtept lat="51.194444" lon="3.631711">
+      <name>1</name>
+      <cmt>001</cmt>
+    </rtept>
+    <rtept lat="51.193972" lon="3.629994">
+      <name>2</name>
+      <cmt>003</cmt>
+    </rtept>
+    <rtept lat="51.195903" lon="3.627677">
+      <name>3</name>
+      <cmt>004</cmt>
+    </rtept>
+    <rtept lat="51.195645" lon="3.626647">
+      <name>4</name>
+      <cmt>005</cmt>
+    </rtept>
+    <rtept lat="51.197227" lon="3.626356">
+      <name>5</name>
+      <cmt>006</cmt>
+    </rtept>
+    <rtept lat="51.198564" lon="3.625274">
+      <name>6</name>
+      <cmt>008</cmt>
+    </rtept>
+    <rtept lat="51.199121" lon="3.625188">
+      <name>7</name>
+      <cmt>009</cmt>
+    </rtept>
+    <rtept lat="51.194802" lon="3.620021">
+      <name>8</name>
+      <cmt>011</cmt>
+    </rtept>
+    <rtept lat="51.193328" lon="3.611541">
+      <name>9</name>
+      <cmt>013</cmt>
+    </rtept>
+    <rtept lat="51.18938" lon="3.613">
+      <name>10</name>
+      <cmt>014</cmt>
+    </rtept>
+    <rtept lat="51.190538" lon="3.628192">
+      <name>11</name>
+      <cmt>019</cmt>
+    </rtept>
+    <rtept lat="51.192321" lon="3.6273">
+      <name>12</name>
+      <cmt>020</cmt>
+    </rtept>
+    <rtept lat="51.192598" lon="3.627291">
+      <name>13</name>
+      <cmt>021</cmt>
+    </rtept>
+    <rtept lat="51.193871" lon="3.629799">
+      <name>14</name>
+      <cmt>023</cmt>
+    </rtept>
+</rte>
+</gpx>
